@@ -35,7 +35,7 @@ a {
 }
 a:hover,
 a:focus {
-  color: #018fe2;
+  color: red;
 }
 a:active {
   color: #23aeff;
@@ -46,7 +46,7 @@ a:active {
 }
 #page-wrapper,
 #footer-wrapper {
-  background: #292929;
+  background: black;
 }
 .region-header,
 .region-header a,
